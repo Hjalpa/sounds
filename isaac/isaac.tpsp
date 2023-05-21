@@ -1,0 +1,35 @@
+{
+
+    "info" : "This is a soundpack for the game TagPro, to use with the TagPro SoundPacks userscript",
+    
+    
+    "name"          :   "Isaac's Sounds",
+    "author"        :   "Isaac",
+    "description"   :   "Sounds made for TagPro by Issac.",
+
+    "sounds" : {
+    
+        "alert"      	: {"source" : "https://raw.githubusercontent.com/hjalpa/sounds/isaac/alert.mp3",
+                           "volume" : 1 },
+ 	"burst"      	: {"source" : "https://raw.githubusercontent.com/hjalpa/sounds/isaac/burst.mp3",
+                           "volume" : 1 },
+  	"cheering"   	: {"source" : "https://raw.githubusercontent.com/hjalpa/sounds/isaac/cheering.mp3",
+                           "volume" : 1 },
+  	"countdown"  	: {"source" : "https://raw.githubusercontent.com/hjalpa/sounds/isaac/countdown.mp3",
+                           "volume" : 1 },
+  	"drop"       	: {"source" : "https://raw.githubusercontent.com/hjalpa/sounds/isaac/drop.mp3",
+                           "volume" : 1 },
+  	"explosion"  	: {"source" : "https://raw.githubusercontent.com/hjalpa/sounds/isaac/explosion.mp3",
+                           "volume" : 1 },
+  	"friendlyalert" : {"source" : "https://raw.githubusercontent.com/hjalpa/sounds/isaac/friendlyalert.mp3",
+                           "volume" : 1 },
+  	"friendlydrop"  : {"source" : "https://raw.githubusercontent.com/hjalpa/sounds/isaac/friendlydrop.mp3",
+                           "volume" : 1 },
+  	"go"      	: {"source" : "https://raw.githubusercontent.com/hjalpa/sounds/isaac/go.mp3",
+                           "volume" : 1 },
+  	"pop"      	: {"source" : "https://raw.githubusercontent.com/hjalpa/sounds/isaac/pop.mp3",
+                           "volume" : 1 },    
+  	"sigh"      	: {"source" : "https://raw.githubusercontent.com/hjalpa/sounds/isaac/sigh.mp3",
+                           "volume" : 1 },
+    }
+}
