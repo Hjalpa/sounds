@@ -91,7 +91,7 @@
 "DiegoOnMac": ["https://raw.githubusercontent.com/hjalpa/sounds/main/diegoonmac.mp3", 1],  
 "DiNgBaT": ["https://raw.githubusercontent.com/hjalpa/sounds/main/lufs/dingbat.mp3", 1],
 "Djinni": ["https://raw.githubusercontent.com/hjalpa/sounds/main/lufs/djinni.mp3", 1],
-"dodsfall": ["https://raw.githubusercontent.com/hjalpa/sounds/main/dodsfall37.mp3", 1],  
+"dodsfall": ["https://raw.githubusercontent.com/hjalpa/sounds/main/dodsfall37.mp3", 0.6],  
 "dogmus": ["https://raw.githubusercontent.com/hjalpa/sounds/main/lufs/carrotcake.mp3", 1],
 "Doris": ["https://raw.githubusercontent.com/hjalpa/sounds/main/lufs/doris.mp3", 1],
 "Dragon Ball": ["https://raw.githubusercontent.com/hjalpa/sounds/main/lufs/dragonballtrue.mp3", 1],
