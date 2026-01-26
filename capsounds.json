@@ -116,6 +116,7 @@
 "First Slime": ["https://raw.githubusercontent.com/hjalpa/sounds/main/lufs/firstslime.mp3", 1],
 "Flaccid Trip": ["https://raw.githubusercontent.com/hjalpa/sounds/main/lufs/flaccidtrip35.mp3", 0.5],
 "FM": ["https://raw.githubusercontent.com/hjalpa/sounds/main/lufs/FM.mp3", 1],
+"fm": ["https://raw.githubusercontent.com/hjalpa/sounds/main/lufs/FM.mp3", 1],  
 "froce": ["https://raw.githubusercontent.com/hjalpa/sounds/main/lufs/frocetrue.mp3", 1],
 "ft": ["https://raw.githubusercontent.com/hjalpa/sounds/main/lufs/flaccidtrip35.mp3", 0.5],
 "Funky Spud": ["https://raw.githubusercontent.com/hjalpa/sounds/main/lufs/funkyspud.mp3", 1],
