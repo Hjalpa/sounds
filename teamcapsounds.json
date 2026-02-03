@@ -2,5 +2,7 @@
   "Red": ["https://raw.githubusercontent.com/hjalpa/sounds/main/redteamwins.mp3", 0.75],
   "Blue": ["https://raw.githubusercontent.com/hjalpa/sounds/main/blueteamwins.mp3", 0.75],
   "MBST": ["https://raw.githubusercontent.com/hjalpa/sounds/main/bstwinsong.mp3", 0.75],
+  "NBAN": ["https://raw.githubusercontent.com/hjalpa/sounds/main/nbanteam.mp3", 0.75],
+  "NJAZ": ["https://raw.githubusercontent.com/hjalpa/sounds/main/njazteam.mp3", 0.75],
   "Test": ["https://raw.githubusercontent.com/hjalpa/sounds/main/praoprao.mp3", 0.75]
 }
