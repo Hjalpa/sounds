@@ -35,8 +35,6 @@
                            "volume" : 1 },
   	"click"      	: {"source" : "https://raw.githubusercontent.com/hjalpa/sounds/raw/main/brainrot/click.mp3",
                            "volume" : 1 },
-  	"alertlong"    	: {"source" : "https://raw.githubusercontent.com/hjalpa/sounds/raw/main/brainrot/alertlong.mp3",
-                           "volume" : 1 },
   	"degreeup"      : {"source" : "https://raw.githubusercontent.com/hjalpa/sounds/raw/main/brainrot/degreeup.mp3",
                            "volume" : 1 },
   	"teleport"      : {"source" : "https://raw.githubusercontent.com/hjalpa/sounds/raw/main/brainrot/teleport.mp3",
